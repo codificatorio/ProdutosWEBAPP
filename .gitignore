@@ -1,0 +1,20 @@
+# ficheiros
+
+.gitattributes
+manifest.mf
+glassfish-web.xml
+build-impl.xml
+genfiles.properties
+ant-deploy.xml
+package-lock.json
+
+# pastas
+
+**/dist/
+**/nbproject/private/
+**/test/
+**/build/
+**/node_modules/
+
+**/ImoApp/
+**/ImoAppFX/
